@@ -1,0 +1,81 @@
+{
+    "badges": [{
+            "id": "9919739d-7362-4b57-b76e-98546ec1b555",
+            "firstName": "Doug",
+            "lastName": "Roob",
+            "email": "Pat.Rolfson@yahoo.com",
+            "jobTitle": "Legacy Security Coordinator",
+            "twitter": "DougRoob39203",
+            "avatarUrl": "https://www.gravatar.com/avatar/705f2c8baba0753f69de366d10797d34?d=identicon"
+        },
+        {
+            "id": "92e7da01-75e1-401a-80ab-11e97d14f87a",
+            "firstName": "Patricia",
+            "lastName": "Koch",
+            "email": "Eula98@yahoo.com",
+            "jobTitle": "Legacy Paradigm Developer",
+            "twitter": "PatriciaKoch50746",
+            "avatarUrl": "https://www.gravatar.com/avatar/d7be7c9206d8bdf7b99a61802ef42bfc?d=identicon"
+        },
+        {
+            "id": "c5f4a4ec-8cc0-4c09-a8f2-a3780d740084",
+            "firstName": "Helena",
+            "lastName": "Kilback",
+            "email": "Eryn2@gmail.com",
+            "jobTitle": "Dynamic Directives Orchestrator",
+            "twitter": "HelenaKilback49886-1693",
+            "avatarUrl": "https://www.gravatar.com/avatar/b2e9d23a39f852ab3bc67bd9a0176464?d=identicon"
+        },
+        {
+            "id": "ea5640b9-3177-47bb-8fe4-25338c43e66c",
+            "firstName": "Arno",
+            "lastName": "Murphy",
+            "email": "Raegan_Morar59@hotmail.com",
+            "jobTitle": "Lead Intranet Architect",
+            "twitter": "ArnoMurphy78604-9408",
+            "avatarUrl": "https://www.gravatar.com/avatar/70b2d26d624ea573e2f4092d6656fe1f?d=identicon"
+        },
+        {
+            "id": "058d574c-4b67-4607-aae5-d00cfe257182",
+            "firstName": "Emile",
+            "lastName": "Paucek",
+            "email": "Titus_Cremin15@yahoo.com",
+            "jobTitle": "Internal Marketing Manager",
+            "twitter": "EmilePaucek04688",
+            "avatarUrl": "https://www.gravatar.com/avatar/6d395ba4955de273f3f28f9fa0a6641b?d=identicon"
+        },
+        {
+            "firstName": "Richard",
+            "lastName": "Kaufman López",
+            "email": "richardbkaufman@gmail.com",
+            "avatarUrl": "https://www.gravatar.com/avatar/21594ed15d68ace3965642162f8d2e84?d=identicon",
+            "jobTitle": "Frontend Engineer @ Kickass Partners",
+            "twitter": "sparragus",
+            "id": "EYR2BVQ"
+        },
+        {
+            "firstName": "Mateo",
+            "lastName": "Loaiza Rios",
+            "email": "mateoloaiza1227@gmail.com",
+            "jobTitle": "Backend Engineer",
+            "twitter": "loaizamateo",
+            "id": "4m1X0u7"
+        },
+        {
+            "firstName": "Estiven",
+            "lastName": "Lucas",
+            "email": "alextivenlucas@hotmail.com",
+            "jobTitle": "Frontend Engineer",
+            "twitter": "estivenlucas",
+            "id": "F9LOz1B"
+        },
+        {
+            "firstName": "Course",
+            "lastName": "Platzi",
+            "email": "ana@platzi.com",
+            "jobTitle": "Bot Platzi",
+            "twitter": "anaplatzi",
+            "id": "5D39zEG"
+        }
+    ]
+}
